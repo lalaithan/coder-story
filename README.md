@@ -17,5 +17,7 @@ EASY! Just follow these steps:
 2. In your forked version of the project, click the "README.md" file
 3. Click the tiny little pencil icon at the top right of the file displayed
 4. Add a new paragraph to continue the existing story
+5. Click the "New pull request" button on your forked version of the project
+6. 
 
 # Coder Story:
