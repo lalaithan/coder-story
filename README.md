@@ -38,4 +38,12 @@ EASY! Just follow these steps:
 5. Add a title and description of what you added
 6. Click "Submit pull request" at the bottom!
 
+## One last thing: THE RULES
+If you don't abide, you don't get merged. Simple, yes?
+* As a writer, try to keep each submission to a single paragraph of reasonable length
+* As a coder, try to keep each submission to roughly 40 lines of code
+* Star the repo (next to the "Fork" button"
+* Share the repo on one of your social profiles with the hashtag \#coderStory
+* Tag a coder (or twenty) to join the fun
+
 # Coder Story:
