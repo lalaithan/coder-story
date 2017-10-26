@@ -13,7 +13,9 @@ Because it's fun and because being part of a community project just feels good. 
 ## How do I contribute?
 
 EASY! Just follow these steps:
-1. Click the "Fork" button in the top right corner of the [repo](https://github.com/GaegeRoot/coder-story)
-2. 
+1. Click the "Fork" button in the top right corner of the [repo](https://github.com/GaegeRoot/coder-story).
+2. In your forked version of the project, click the "README.md" file
+3. Click the tiny little pencil icon at the top right of the file displayed
+4. Add a new paragraph to continue the existing story
 
 # Coder Story:
