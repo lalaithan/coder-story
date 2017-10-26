@@ -53,4 +53,4 @@ ALRIGHT! Now, let's begin....
 
 # Coder Story:
 
-I stood mesmerized for what seemed like hours
+I stood mesmerized for what seemed like hours. Watching the waves crash onto the shimmering, white beach I imagined myself shrinking to the size of a sea monkey and climbing along the ridges of washed up shells as though they were mountains. Each new wave served as a violent storm in my make-believe trek, leaving behind remnants of "snow" that clung to the edges of my mountain range of shells. 
