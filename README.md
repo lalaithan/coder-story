@@ -56,3 +56,5 @@ ALRIGHT! Now, let's begin....
 I stood mesmerized for what seemed like hours. Watching the waves crash onto the shimmering, white beach I imagined myself shrinking to the size of a sea monkey and climbing along the ridges of washed up shells as though they were mountains. Each new wave served as a violent storm in my make-believe trek, leaving behind remnants of "snow" that clung to the edges of my mountain range of shells. 
 
 In that moment, I felt invicible in the face of the waves. In my little imagination, I put my fears aside and enjoyed the freshness ofthe sea. This was the best feeling I got in weeks.
+
+I say weeks because It was roughly two weeks ago that it all changed. Everything. I was getting up every morning at 6am, heading to work, getting home at 7pm and falling asleep on the couch. This routine had been the same for years. I grabbed coffee from the same conglomerate coffee shop every morning and ordered food for the same four or five places every evening. My social life involved replying to blinking lights on my phone with smileys while i sat in my underwear at home.
