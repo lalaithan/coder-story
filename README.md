@@ -2,7 +2,7 @@
 
 A living, evolving, (hopefully) epic story created and presented collaboratively by anyone that considers themselves a "coder".
 
-If you just want to read the story,[click here](#coder-story).
+If you just want to read the story, [click here](#coder-story).
 
 However, this is a community project so you're encouraged to contribute!
 
@@ -42,11 +42,11 @@ EASY! Just follow these steps:
 
 ## One last thing: THE RULES
 If you don't abide, you don't get merged. Simple, yes?
-* As a writer, try to keep each submission to a single paragraph of reasonable length
-* As a coder, try to keep each submission to roughly 40 lines of code
-* Star the repo (next to the "Fork" button"
+* As a writer, try to keep each submission to a single paragraph of reasonable length.
+* As a coder, try to keep each submission to roughly 40 lines of code.
+* Star the repo (next to the "Fork" button").
 * Share the repo on one of your social profiles with the hashtag \#coderStory
-* Tag a coder (or twenty) to join the fun
+* Tag a coder (or twenty) to join the fun.
 * You may move content. Putting the entire story in its own .md file, as a mild example. Just try to maintain the overall goal of the project, which is to create a super-collaborative story and make it as easily accessible and contributable (that's a word, right?) as possible.
 
 ALRIGHT! Now, let's begin....
@@ -55,6 +55,6 @@ ALRIGHT! Now, let's begin....
 
 I stood mesmerized for what seemed like hours. Watching the waves crash onto the shimmering, white beach I imagined myself shrinking to the size of a sea monkey and climbing along the ridges of washed up shells as though they were mountains. Each new wave served as a violent storm in my make-believe trek, leaving behind remnants of "snow" that clung to the edges of my mountain range of shells. (Gaege Root - [gaege.xyz](https://www.gaege.xyz), [Twitter](https://www.twitter.com/gaegeroot), [Instagram](https://www.instagram.com/gaegeroot), [Facebook](https://www.facebook.com/gaegeroot))
 
-In that moment, I felt invicible in the face of the waves. In my little imagination, I put my fears aside and enjoyed the freshness ofthe sea. This was the best feeling I got in weeks. (@lornamariak)
+In that moment, I felt invicible in the face of the waves. In my little imagination, I put my fears aside and enjoyed the freshness of the sea. This was the best feeling I got in weeks. (@lornamariak)
 
-I say weeks because It was roughly two weeks ago that it all changed. Everything. I was getting up every morning at 6am, heading to work, getting home at 7pm and falling asleep on the couch. This routine had been the same for years. I grabbed coffee from the same coffee shop every morning and ordered food from the same four or five places every evening. My social life involved replying to blinking lights on my phone with smileys while I sat in my underwear at home. (Alistair Guthrie - [Twitter](https://www.twitter.com/Alistair______))
+I say weeks because it was roughly two weeks ago that it all changed. Everything. I was getting up every morning at 6am, heading to work, getting home at 7pm and falling asleep on the couch. This routine had been the same for years. I grabbed coffee from the same coffee shop every morning and ordered food from the same four or five places every evening. My social life involved replying to blinking lights on my phone with smileys while I sat in my underwear at home. (Alistair Guthrie - [Twitter](https://www.twitter.com/Alistair______))
