@@ -6,6 +6,8 @@ If you just want to read the story,[click here](#coder-story).
 
 However, this is a community project so you're encouraged to contribute!
 
+Shameless plug real quick: My name is Gaege, I love to write **and** code (hence this ambitious project). After working as a freelance developer for ten years, I now coach other developers in the world of freelancing at [gaege.xyz](https://www.gaege.xyz). Talk to me on :bird:[Twitter](https://www.twitter.com/gaegeroot), :camera:[Instagram](https://www.instagram.com/gaegeroot), and :bust_in_silhouette:[Facebook](https://www.facebook.com/gaegeroot)
+
 ## Why should I contribute?
 
 Because it's fun and because being part of a community project just feels good. Wanna feel good? Contribute. Wanna not feel good? Still contribute because we need some of that angst to make the story more dynamic.
@@ -47,4 +49,8 @@ If you don't abide, you don't get merged. Simple, yes?
 * Tag a coder (or twenty) to join the fun
 * You may move content. Putting the entire story in its own .md file, as a mild example. Just try to maintain the overall goal of the project, which is to create a super-collaborative story and make it as easily accessible and contributable (that's a word, right?) as possible.
 
+ALRIGHT! Now, let's begin....
+
 # Coder Story:
+
+I stood mesmerized for what seemed like hours
