@@ -45,5 +45,6 @@ If you don't abide, you don't get merged. Simple, yes?
 * Star the repo (next to the "Fork" button"
 * Share the repo on one of your social profiles with the hashtag \#coderStory
 * Tag a coder (or twenty) to join the fun
+* You may move content. Putting the entire story in its own .md file, as a mild example. Just try to maintain the overall goal of the project, which is to create a super-collaborative story and make it as easily accessible and contributable (that's a word, right?) as possible.
 
 # Coder Story:
